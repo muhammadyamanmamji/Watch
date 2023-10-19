@@ -1,0 +1,33 @@
+body{
+    background-color: black !important;
+    color: silver !important;
+    height: 100vh !important;
+    display: flex !important;
+    justify-content: center !important; 
+    align-items: center !important;
+}
+.nmbr{
+    font-size: 100px;
+    font-weight: bold;
+}
+.cstm_btn{
+    font-size: 30px !important;
+    padding: 10px 25px 10px 25px !important;
+    border-radius: 30px !important;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.allover{
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn_main{
+    text-align: center;
+    margin-top: 30px;
+}
+.timer{
+  margin-left: 10%;
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab; 
+}
